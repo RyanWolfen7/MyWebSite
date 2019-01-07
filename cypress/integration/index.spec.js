@@ -6,7 +6,7 @@ describe('Index Page', function() {
     cy.visit('http://localhost:3000')
   })
   it('Has Programers Name, Title, Email, Phone', function() {
-    cy.get('.header')
+    cy.get('.IndexTopPanel')
       .contains('Ryan Clark')
       .contains('Phone: +1-210-294-1400')
       .contains('Email: wolfen7lada@gmail.com')
