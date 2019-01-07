@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import IndexTopPanel from '../components/index/TopPanel.js'
 
 class App extends Component {
 
@@ -6,7 +7,7 @@ class App extends Component {
 
     return (
       <div className="app">
-
+        <IndexTopPanel/>
       </div>
     )
   }
