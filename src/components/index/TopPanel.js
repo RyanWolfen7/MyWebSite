@@ -4,8 +4,10 @@ class IndexTopPanel extends Component {
   render(){
     return (
       <div className="IndexTopPanel" id="IndexTopPanel">
-        <a> Ryan Clark </a>
-        <a> Full Stack Developer </a>
+        <div className="IndexTopPanel-BG" id="IndexTopPanel-BG"
+          <a> Ryan Clark </a>
+          <a> Full Stack Developer </a>
+        </div>
       </div>
     )
   }
