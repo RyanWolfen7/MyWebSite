@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import IndexTopPanel from '../components/index/TopPanel.js'
+import '../css/index/TopPanel.css';
 
 class App extends Component {
 
