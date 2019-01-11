@@ -18,6 +18,7 @@
   outline-color: black;
   font-size: 13vw;
   outline: black;
+  text-shadow: 2px 2px 8px Black;
 
 }
 
@@ -27,4 +28,5 @@
   color: white;
   font-style: Garamond;
   font-size: 4vw;
+  text-shadow: 2px 2px 8px Black;
 }
