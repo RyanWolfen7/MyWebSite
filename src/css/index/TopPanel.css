@@ -34,10 +34,10 @@
   position: fixed;
   color: white;
   font-style: Garamond;
-  font-size: 25px;
+  font-size: calc(20px + (26 - 14) * ((100vw - 700px) / (1600 - 300)));
   text-shadow: 2px 2px 8px Black;
   width: 45vw;
-  height: auto;
+  height: 100%;
   left: 15vw;
   top: 23vw;
 }
