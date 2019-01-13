@@ -9,4 +9,19 @@ This will encapsulate skills and proficiencies in a neat and uniformed
 manner.   
 `````
 
-## Installation 
+## Installation
+
+
+
+* Download Yarn
+  ````
+  $ Brew Install Yarn
+  ````
+* Yarn Install
+  ````
+  $ yarn install
+  ````
+* Run Cypress
+````
+$ yarn cypress open
+````
