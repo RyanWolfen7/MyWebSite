@@ -11,8 +11,8 @@ class App extends Component {
 
     return (
       <div className="app">
-        <Hyperlinks/>
         <IndexTopPanel/>
+        <Hyperlinks/>
       </div>
     )
   }
