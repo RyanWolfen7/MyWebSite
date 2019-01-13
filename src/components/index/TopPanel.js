@@ -11,6 +11,15 @@ class IndexTopPanel extends Component {
           <div className="Me" id="Me">
             <img src={myImage} alt="Broken" className="port" />
           </div>
+          <div className="Bio" id="Bio">
+            <p>
+              A full stack developer, world traveler, and Veteran of the US Army.
+              Ryan has a serious passion for tech, programing, and growing as a developer.
+              With a plethora of skills and experience, he brings an unique approach to
+              solving complex problems and is more then happy to help, teach, or learn any
+              way he can.
+            </p>
+          </div>
         </div>
       </div>
     )
