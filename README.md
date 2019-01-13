@@ -22,6 +22,6 @@ manner.
   $ yarn install
   ````
 * Run Cypress
-````
-$ yarn cypress open
-````
+  ````
+  $ yarn cypress open
+  ````
