@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
 import '../css/app.css';
-import IndexTopPanel from '../components/index/TopPanel.js'
+import IndexTopPanel from '../components/index/TopPanel.js';
 import '../css/index/TopPanel.css';
+import Hyperlinks from '../components/index/Hyperlinks.js';
+import '../css/index/Hyperlinks.css';
 
 class App extends Component {
 
@@ -9,6 +11,7 @@ class App extends Component {
 
     return (
       <div className="app">
+        <Hyperlinks/>
         <IndexTopPanel/>
       </div>
     )
