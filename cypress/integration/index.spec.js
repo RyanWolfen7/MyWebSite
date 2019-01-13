@@ -5,4 +5,40 @@ describe('Index Page', function() {
   it('App Launches and can visit the website', function() {
     cy.visit('http://localhost:3000')
   })
+  it('Should load my name', function() {
+    cy.get('.RyanClark')
+      .should('contain', 'Ryan Clark')
+  })
+  it('Should load my job title', function() {
+    cy.get('.Profession')
+    .should('contain', 'Full Stack Web Developer')
+  })
+  it('Should load my picture', function() {
+    cy.get('.Me')
+    .should('exist', 'ME.jpg')
+  })
+  it('Should find the link buttons', function() {
+    cy.get('.Links')
+    .children()
+    .should( 'exist', 'Git')
+    .should( 'exist', 'LI')
+    .should( 'exist', 'FB')
+    .should( 'exist', 'YT')
+    .should( 'exist', 'HP')
+  })
+  it('Should redirect you to Github', function() {
+    cy.get('.Git').should('have.attr', 'href', 'https://github.com/RyanWolfen7')
+  })
+  it('Should redirect you to Linked In', function() {
+    cy.get('.LI').should('have.attr', 'href', 'https://www.linkedin.com/in/ryan-clark-44b156127/')
+  })
+  it('Should redirect you to Face Book', function() {
+    cy.get('.FB').should('have.attr', 'href', 'https://www.facebook.com/ryan.clark.18400')
+  })
+  it('Should redirect you to You Tube', function() {
+    cy.get('.YT').should('have.attr', 'href', 'https://www.youtube.com/channel/UCH4TK55SqiGyTIzwUnVpfxg')
+  })
+  it('Should redirect you to Hello Poetry', function() {
+    cy.get('.HP').should('have.attr', 'href', 'https://hellopoetry.com/ryan-clark/')
+  })
 })
