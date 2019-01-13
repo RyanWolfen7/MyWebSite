@@ -1,5 +1,5 @@
 .IndexTopPanel {
-  
+
 }
 
 .Header {
@@ -14,7 +14,7 @@
   outline-color: black;
   font-size: 13vw;
   outline: black;
-  text-shadow: 2px 2px 8px Black;
+  text-shadow: 3px 3px 10px Black;
 
 }
 
@@ -27,6 +27,19 @@
   text-shadow: 2px 2px 8px Black;
   left: 15vw;
   top: 13vw;
+}
+
+.Bio {
+  display: sticky;
+  position: fixed;
+  color: white;
+  font-style: Garamond;
+  font-size: 25px;
+  text-shadow: 2px 2px 8px Black;
+  width: 45vw;
+  height: auto;
+  left: 15vw;
+  top: 23vw;
 }
 
 .Me {
