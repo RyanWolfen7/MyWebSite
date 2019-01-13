@@ -1,0 +1,110 @@
+.Hyperlinks {
+  display: inline-flex;
+  flex-flow: row wrap;
+}
+
+.Links {
+  position: absolute;
+  left: 1vw;
+  bottom: 1vw;
+}
+
+.Git {
+  padding-right: 10px;
+}
+
+.gh {
+  background-color: white;
+  object-fit: cover;
+  object-position: 100% 0;
+  border: 2px solid black;
+  border-radius: 50%;
+  width: 4vw;
+  height: 4vw;
+  justify-content: center;
+  -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  box-flex: 1;
+  -webkit-flex: 1 1 auto;
+  flex: 1 1 auto;
+}
+
+.LI {
+  padding-right: 10px;
+}
+
+.li {
+  background-color: white;
+  object-fit: cover;
+  object-position: 100% 0;
+  border: 2px solid black;
+  border-radius: 50%;
+  width: 4vw;
+  height: 4vw;
+  justify-content: center;
+  -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  box-flex: 1;
+  -webkit-flex: 1 1 auto;
+  flex: 1 1 auto;
+}
+
+.FB {
+  padding-right: 10px;
+}
+
+.fb {
+  background-color: white;
+  object-fit: cover;
+  object-position: 100% 0;
+  border: 2px solid black;
+  border-radius: 50%;
+  width: 4vw;
+  height: 4vw;
+  justify-content: center;
+  -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  box-flex: 1;
+  -webkit-flex: 1 1 auto;
+  flex: 1 1 auto;
+}
+
+.YT {
+  padding-right: 10px;
+}
+
+.yt {
+  background-color: white;
+  object-fit: cover;
+  object-position: 100% 0;
+  border: 2px solid black;
+  border-radius: 50%;
+  width: 4vw;
+  height: 4vw;
+  justify-content: center;
+  -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  box-flex: 1;
+  -webkit-flex: 1 1 auto;
+  flex: 1 1 auto;
+}
+
+.HP {
+  padding-right: 10px;
+}
+
+.hp {
+  background-color: white;
+  object-fit: cover;
+  object-position: 100% 0;
+  border: 2px solid black;
+  border-radius: 50%;
+  width: 4vw;
+  height: 4vw;
+  justify-content: center;
+  -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  box-flex: 1;
+  -webkit-flex: 1 1 auto;
+  flex: 1 1 auto;
+}
