@@ -41,4 +41,14 @@ describe('Index Page', function() {
   it('Should redirect you to Hello Poetry', function() {
     cy.get('.HP').should('have.attr', 'href', 'https://hellopoetry.com/ryan-clark/')
   })
+  it('Should click the skills tab and have skills', function() {
+    cy.get('.skills').click()
+    .should('contain', 'Leadership')
+    .should('contain', 'Agile Methodology')
+    .should('contain', 'Self Learning')
+    .should('contain', 'Test Driven Development')
+    .should('contain', 'Object Oriented Design')
+    .should('contain', 'Domain Driven Design')
+    .should('contain', 'Data Base Intigration')
+  })
 })
