@@ -4,6 +4,7 @@ import IndexTopPanel from '../components/index/TopPanel.js';
 import '../css/index/TopPanel.css';
 import Hyperlinks from '../components/index/Hyperlinks.js';
 import '../css/index/Hyperlinks.css';
+import SkillsTab from '../components/index/SkillsTab.js';
 
 class App extends Component {
 
@@ -11,6 +12,7 @@ class App extends Component {
 
     return (
       <div className="app">
+        <SkillsTab/>
         <IndexTopPanel/>
         <Hyperlinks/>
       </div>
