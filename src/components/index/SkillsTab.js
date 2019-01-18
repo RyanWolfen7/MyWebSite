@@ -7,10 +7,20 @@ class SkillsTab extends Component {
     return (
       <div className="skills" id="skills">
         <Menu customBurgerIcon={ <img src={ Skills } alt="Skills"/>} width={ '.02vw'} left>
+          <SkillsList/>
         </Menu>
       </div>
     )
   }
 }
+
+const SkillsList = () => {
+  return (
+      <div className="skillsList" id= "skillsList">
+        Leadership
+        
+      </div>
+  );
+};
 
 export default SkillsTab;
