@@ -1,5 +1,4 @@
 .skills {
-  width: 30%;
 }
 
 .skills .bm-item {
@@ -16,8 +15,8 @@
 .skills .bm-burger-button {
   position: fixed;
   right: 1vw;
-  height: auto;
-  width: auto;
+  height: 3vw;
+  width: 20vw;
 }
 
 .skills .bm-burger-bars {
@@ -32,11 +31,14 @@
   background: #373a47;
   padding: 2.5em 1.5em 0;
   font-size: 1.15em;
+  border-left: white solid .5vw;
+  height: 100%;
 }
 
 .skills .bm-menu-wrap {
   position: fixed;
   height: 100%;
+  width: auto;
 }
 
 .skills .bm-morph-shape {
