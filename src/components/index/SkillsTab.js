@@ -34,6 +34,14 @@ const SkillsList = () => {
           a dractically different and imensly more stressful environment.
         </p>
         <h1> Self Learning</h1>
+        <p>
+          Being an avid lover of anything tech, Ryan is constantly looking to improve and
+          master everything from the core principles/fundamentals to the lastest trends in
+          the industry. Every night before bed he keeps his basic skills sharp by frequenting
+          codewars, catching up on his favorite coder youtubers, and touching up various projects.
+          Ryan has learned to code a day before a preliminary entrance exam to Makers Academy, London
+          UK and continues to challenge himself as a developer and as a person.
+        </p>
         <h1> Test Driven Development</h1>
         <h1> Object Oriented Design</h1>
         <h1> Domain Driven Design</h1>
