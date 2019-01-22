@@ -26,6 +26,13 @@ const SkillsList = () => {
           leadership styles.
         </p>
         <h1> Agile Methodology </h1>
+        <p>
+          Agile processes and army Active Decision Making  processes go hand to hand.
+          Basically it is an efficient way of managing, tasking, tracking, and planning
+          an operation or design project. Due to the eere similarity between the two
+          methodologies, Ryan has an aditional 4 years experience using such methods in
+          a dractically different and imensly more stressful environment.
+        </p>
         <h1> Self Learning</h1>
         <h1> Test Driven Development</h1>
         <h1> Object Oriented Design</h1>
