@@ -43,6 +43,14 @@ const SkillsList = () => {
           UK and continues to challenge himself as a developer and as a person.
         </p>
         <h1> Test Driven Development</h1>
+        <p>
+          Having learned TDD at Makers Academy in London, Ryan quickly grasped the concepts and methodologies
+          behind the importance of TDD. While quite capable of bashing out code, Ryan prefers TDD
+          as he believes that understanding what you want to make before writing code directly impacts how
+          proficient he is as a programer. Due to his use of TDD Ryan harldly encounters project crippling
+          bugs and since he is a fond component for the Single Responsibility Principle, his code is mostly
+          modular, repurposable, and tested in isolation.
+        </p>
         <h1> Object Oriented Design</h1>
         <h1> Domain Driven Design</h1>
       </div>
