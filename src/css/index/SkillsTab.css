@@ -1,0 +1,58 @@
+.skills {
+  top: 0px;
+  width: 100%;
+  height: 100%;
+
+}
+
+.skills .bm-item {
+  display: inline-block;
+  text-decoration: none;
+  color: #d1d1d1;
+  transition: color 0.8s;
+}
+
+.skills .bm-item:hover {
+  color: black;
+}
+
+.skills .bm-burger-button {
+  position: fixed;
+  right: 1vw;
+  height: 2.5vw;
+  width: 15vw;
+}
+
+.skills .bm-burger-bars {
+  background: black;
+}
+
+.skills .bm-cross {
+  background: #bdc3c7;
+}
+
+.skills .bm-menu {
+  background: #373a47;
+  padding: 1.5em 1.5em 0;
+  font-size: 1.10em;
+  border-left: white solid .5vw;
+  height: 100%;
+}
+
+.skills .bm-menu-wrap {
+  position: fixed;
+  height: 100%;
+  width: auto;
+}
+
+.skills .bm-morph-shape {
+  fill: #373a47;
+}
+
+.skills .bm-item-list {
+  color: white;
+}
+
+.skills .bm-overlay {
+  background: rgba(0, 0, 0, 0);
+}
