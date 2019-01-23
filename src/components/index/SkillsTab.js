@@ -6,7 +6,7 @@ class SkillsTab extends Component {
   render(){
     return (
       <div className="skills" id="skills">
-        <Menu customBurgerIcon={ <img src={ Skills } width={'10vw'} alt="Skills"/>} right>
+        <Menu customBurgerIcon={ <img src={ Skills } alt="Skills"/>} width={'75%'} right>
           <SkillsList/>
         </Menu>
       </div>
