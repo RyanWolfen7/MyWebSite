@@ -52,7 +52,18 @@ const SkillsList = () => {
           modular, repurposable, and tested in isolation.
         </p>
         <h1> Object Oriented Design</h1>
+        <p>
+          OOD and the SRP go together like peas and carrot. Being taught at Makers has influenced Ryan in
+          the core principles behind OOD, so much so, that most of his personal projects are object orientated.
+          While versitile in his design approach, he usually like to hone the skills at his disposal.
+        </p>
         <h1> Domain Driven Design</h1>
+        <p>
+          Half the fun of a project is watching it evolve into something different, yet greater then you expected.
+          Using Agile and Minimal Viable Product philosophies, Ryan can get a working prototype up quickly. With
+          some tender love and care, he can get any project to a working production model with minimal improvements and
+          in no time at all the minimum neccesary product transforms to something beautiful.  
+        </p>
       </div>
   );
 };
