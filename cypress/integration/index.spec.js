@@ -51,4 +51,9 @@ describe('Index Page', function() {
     .should('contain', 'Object Oriented Design')
     .should('contain', 'Domain Driven Design')
   })
+  it('Should click the tech tab and have languages', function() {
+    cy.get('.tech .bm-burger-button').click()
+    cy.get('.techList')
+      .should('contain', 'Program Language Familiarities')
+  })
 })
