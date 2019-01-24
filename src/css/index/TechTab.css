@@ -1,8 +1,4 @@
 .tech {
-  top: 0px;
-  width: 100%;
-  height: 100%;
-
 }
 
 .tech .bm-item {
@@ -17,10 +13,11 @@
 }
 
 .tech .bm-burger-button {
-  position: fixed;
+  position: absolute;
   top: 4vw;
+  bottom: 1vw;
   right: 1vw;
-  height: 2.5vw;
+  height: 2.8vw;
   width: 15vw;
 }
 
