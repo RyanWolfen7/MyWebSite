@@ -1,0 +1,201 @@
+.tech {
+}
+
+.tech .bm-item {
+  display: inline-block;
+  text-decoration: none;
+  color: #d1d1d1;
+  transition: color 0.8s;
+}
+
+.tech .bm-item:hover {
+  color: black;
+}
+
+.tech .bm-burger-button {
+  position: absolute;
+  top: 4vw;
+  bottom: 1vw;
+  right: 1vw;
+  height: 2.8vw;
+  width: 15vw;
+}
+
+.tech .bm-burger-bars {
+  background: black;
+}
+
+.tech .bm-cross {
+  background: #bdc3c7;
+}
+
+.tech .bm-menu {
+  background: #373a47;
+  padding: 1.5em 1.5em 0;
+  font-size: 1.10em;
+  border-left: white solid .5vw;
+  height: 100%;
+}
+
+.tech .bm-menu-wrap {
+  position: fixed;
+  height: 100%;
+  width: auto;
+}
+
+.tech .bm-morph-shape {
+  fill: #373a47;
+}
+
+.tech .bm-item-list {
+  color: white;
+}
+
+.tech .bm-overlay {
+  background: rgba(0, 0, 0, 0);
+}
+
+.ruby {
+  height: 3.6vw;
+  width: auto;
+  border-radius: 50%;
+}
+
+.js {
+  height: auto;
+  width: 7.5vw;
+}
+
+.html {
+  width: auto;
+  height: 4.3vw;
+  align-self: center;
+  padding-right: 1.3vw;
+  top: 2.5px;
+  position: relative;
+
+
+}
+
+.css {
+  height: 3.9vw;
+  width: auto;
+  padding-right: 1.3vw;
+}
+
+.sql {
+  height: 3.9vw;
+  width: auto;
+  border-radius: 50%;
+}
+
+.c {
+  top: 3.5px;
+  height: 3.9vw;
+  width: auto;
+  position: relative;
+  padding-left: 1vw;
+}
+
+.cSharp {
+  height: 3.4vw;
+  width: auto;
+  padding-left: 1vw;
+  padding-right: 1vw;
+}
+
+.java {
+  height: 3.4vw;
+  width: auto;
+  border-radius: 20%;
+}
+
+.php {
+  height: 3.4vw;
+  width: auto;
+  padding-left: 1vw;
+}
+
+.react {
+  height: 3.4vw;
+  width: auto;
+}
+
+.nodejs {
+  height: 3.4vw;
+  width: auto;
+}
+
+.mongodb {
+  height: 3.4vw;
+  width: auto;
+  padding-right: .5vw;
+  padding-left: .5vw;
+  border-radius: 50%;
+}
+
+.bootstrap {
+  height: 3.4vw;
+  width: auto;
+  padding-right: 1.4vw;
+  padding-left: 1.4vw;
+}
+
+.rails {
+  height: 3.4vw;
+  width: auto;
+  padding-right: 1.9vw;
+}
+
+.mysql {
+  height: 3.4vw;
+  width: auto;
+  padding-right: 1.5vw;
+}
+
+.postgresql {
+  height: 3.4vw;
+  width: auto;
+  padding-right: 1.5vw;
+}
+
+.travis {
+  height: 3.4vw;
+  width: auto;
+  border-radius: 50%;
+}
+
+.heroku {
+  height: 3.4vw;
+  width: auto;
+  border-radius: 50%;
+}
+
+.atom {
+  height: 3.4vw;
+  width: auto;
+  padding-right: 1.7vw;
+  padding-left: 1.8vw;
+}
+
+.vs {
+  height: 3.4vw;
+  width: auto;
+  border-radius: 50%;
+}
+
+.unity {
+  height: 3.4vw;
+  width: auto;
+  padding-right: 1vw;
+  padding-left: 1.7vw;
+}
+
+.stackMid {
+  padding-top: 2vw;
+  padding-bottom: 2vw;
+}
+
+.stackLow {
+  padding-bottom: 2vw;
+}
