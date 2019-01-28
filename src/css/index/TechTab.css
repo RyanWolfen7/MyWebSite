@@ -14,11 +14,12 @@
 
 .tech .bm-burger-button {
   position: absolute;
+  padding-top: 2vw;
   top: 4vw;
   bottom: 1vw;
   right: 1vw;
-  height: 2.8vw;
-  width: 15vw;
+  height: 3.8vw;
+  width: 18vw;
 }
 
 .tech .bm-burger-bars {
@@ -56,78 +57,78 @@
 }
 
 .ruby {
-  height: 3.6vw;
+  height: 7.4vw;
   width: auto;
   border-radius: 50%;
 }
 
 .js {
-  height: auto;
-  width: 7.5vw;
+  width: auto;
+  height: 7.3vw;
 }
 
 .html {
   width: auto;
-  height: 4.3vw;
+  height: 8.5vw;
   align-self: center;
-  padding-right: 1.3vw;
-  top: 2.5px;
+  padding-right: 2.5vw;
+  top: .7vw;
   position: relative;
 
 
 }
 
 .css {
-  height: 3.9vw;
+  height: 7.3vw;
   width: auto;
-  padding-right: 1.3vw;
+  padding-right: 2.5vw;
 }
 
 .sql {
-  height: 3.9vw;
+  height: 7.3vw;
   width: auto;
   border-radius: 50%;
 }
 
 .c {
-  top: 3.5px;
-  height: 3.9vw;
+  top: .2vw;
+  height: 7.9vw;
   width: auto;
   position: relative;
   padding-left: 1vw;
 }
 
 .cSharp {
-  height: 3.4vw;
+  height: 7.4vw;
   width: auto;
-  padding-left: 1vw;
-  padding-right: 1vw;
+  padding-left: 1.5vw;
+  padding-right: 1.5vw;
 }
 
 .java {
-  height: 3.4vw;
+  height: 7.4vw;
   width: auto;
   border-radius: 20%;
 }
 
 .php {
-  height: 3.4vw;
+  height: 7.4vw;
   width: auto;
-  padding-left: 1vw;
+  padding-left: 1.5vw;
 }
 
 .react {
-  height: 3.4vw;
+  height: 7.4vw;
   width: auto;
 }
 
 .nodejs {
-  height: 3.4vw;
+  height: 7.4vw;
   width: auto;
 }
 
 .mongodb {
-  height: 3.4vw;
+  height: 7.4vw;
   width: auto;
   padding-right: .5vw;
   padding-left: .5vw;
@@ -135,60 +136,60 @@
 }
 
 .bootstrap {
-  height: 3.4vw;
+  height: 7.4vw;
   width: auto;
   padding-right: 1.4vw;
-  padding-left: 1.4vw;
+  padding-left: 2.4vw;
 }
 
 .rails {
-  height: 3.4vw;
+  height: 7.4vw;
   width: auto;
-  padding-right: 1.9vw;
+  padding-right: 3vw;
 }
 
 .mysql {
-  height: 3.4vw;
+  height: 7.4vw;
   width: auto;
-  padding-right: 1.5vw;
+  padding-right: 3.5vw;
 }
 
 .postgresql {
-  height: 3.4vw;
+  height: 7.4vw;
   width: auto;
-  padding-right: 1.5vw;
+  padding-right: 2.5vw;
 }
 
 .travis {
-  height: 3.4vw;
+  height: 7.4vw;
   width: auto;
   border-radius: 50%;
 }
 
 .heroku {
-  height: 3.4vw;
+  height: 7.4vw;
   width: auto;
   border-radius: 50%;
 }
 
 .atom {
-  height: 3.4vw;
+  height: 7.4vw;
   width: auto;
-  padding-right: 1.7vw;
-  padding-left: 1.8vw;
+  padding-right: 3.7vw;
+  padding-left: 3.2vw;
 }
 
 .vs {
-  height: 3.4vw;
+  height: 7.4vw;
   width: auto;
   border-radius: 50%;
 }
 
 .unity {
-  height: 3.4vw;
+  height: 7.4vw;
   width: auto;
   padding-right: 1vw;
-  padding-left: 1.7vw;
+  padding-left: 2.7vw;
 }
 
 .stackMid {
