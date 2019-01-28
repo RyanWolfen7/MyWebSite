@@ -53,7 +53,11 @@ describe('Index Page', function() {
   })
   it('Should click the tech tab and have languages', function() {
     cy.get('.tech .bm-burger-button').click()
-    cy.get('.techList')
-      .should('contain', 'Program Language Familiarities')
+    cy.get('.proficient')
+      .should('contain', 'Proficient Languages')
+    cy.get('.functional')
+      .should('contain', 'Language Familiarities')
+    cy.get('.stacks')
+      .should('contain', 'Stack Familiarities')
   })
 })
