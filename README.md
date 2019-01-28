@@ -25,3 +25,7 @@ manner.
   ````
   $ yarn cypress open
   ````
+* Start the App
+  ````
+  $ yarn start
+  ````
