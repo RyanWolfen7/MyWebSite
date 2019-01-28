@@ -8,6 +8,8 @@ import SkillsTab from '../components/index/SkillsTab.js';
 import '../css/index/SkillsTab.css';
 import TechTab from '../components/index/TechTab.js';
 import '../css/index/TechTab.css';
+import Projects from '../components/index/Projects.js';
+import '../css/index/Projects.css';
 
 class App extends Component {
 
@@ -17,6 +19,7 @@ class App extends Component {
       <div className="app">
         <SkillsTab/>
         <TechTab/>
+        <Projects/>
         <IndexTopPanel/>
         <Hyperlinks/>
       </div>
