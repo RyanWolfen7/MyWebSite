@@ -10,6 +10,8 @@ import TechTab from '../components/index/TechTab.js';
 import '../css/index/TechTab.css';
 import Projects from '../components/index/Projects.js';
 import '../css/index/Projects.css';
+import Contacts from '../components/index/Contacts.js';
+import '../css/index/Contacts.css';
 
 class App extends Component {
 
@@ -20,6 +22,7 @@ class App extends Component {
         <SkillsTab/>
         <TechTab/>
         <Projects/>
+        <Contacts/>
         <IndexTopPanel/>
         <Hyperlinks/>
       </div>
