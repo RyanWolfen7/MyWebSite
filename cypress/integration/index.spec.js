@@ -60,4 +60,11 @@ describe('Index Page', function() {
     cy.get('.stacks')
       .should('contain', 'Stack Familiarities')
   })
+  it('should have a projects tab and hyperlinks', function() {
+    cy.get('.projects .bm-burger-button').click()
+    cy.get('.teamProjects')
+      .should('contain', 'Team Projects')
+    cy.get('.soloProjects')
+      .should('contain', 'Solo Projects')
+  })
 })
