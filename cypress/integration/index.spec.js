@@ -64,6 +64,7 @@ describe('Index Page', function() {
     cy.get('.projects .bm-burger-button').click()
     cy.get('.teamProjects')
       .should('contain', 'Team Projects')
+    cy.get('.projects .bm-menu').scrollTo('bottom')
     cy.get('.soloProjects')
       .should('contain', 'Solo Projects')
   })
