@@ -90,6 +90,112 @@
 }
 
 .c {
+  top: 3.5px;
   height: 3.9vw;
   width: auto;
+  position: relative;
+  padding-left: 1vw;
+}
+
+.cSharp {
+  height: 3.4vw;
+  width: auto;
+  padding-left: 1vw;
+  padding-right: 1vw;
+}
+
+.java {
+  height: 3.4vw;
+  width: auto;
+  border-radius: 20%;
+}
+
+.php {
+  height: 3.4vw;
+  width: auto;
+  padding-left: 1vw;
+}
+
+.react {
+  height: 3.4vw;
+  width: auto;
+}
+
+.nodejs {
+  height: 3.4vw;
+  width: auto;
+}
+
+.mongodb {
+  height: 3.4vw;
+  width: auto;
+  padding-right: .5vw;
+  padding-left: .5vw;
+  border-radius: 50%;
+}
+
+.bootstrap {
+  height: 3.4vw;
+  width: auto;
+  padding-right: 1.4vw;
+  padding-left: 1.4vw;
+}
+
+.rails {
+  height: 3.4vw;
+  width: auto;
+  padding-right: 1.9vw;
+}
+
+.mysql {
+  height: 3.4vw;
+  width: auto;
+  padding-right: 1.5vw;
+}
+
+.postgresql {
+  height: 3.4vw;
+  width: auto;
+  padding-right: 1.5vw;
+}
+
+.travis {
+  height: 3.4vw;
+  width: auto;
+  border-radius: 50%;
+}
+
+.heroku {
+  height: 3.4vw;
+  width: auto;
+  border-radius: 50%;
+}
+
+.atom {
+  height: 3.4vw;
+  width: auto;
+  padding-right: 1.7vw;
+  padding-left: 1.8vw;
+}
+
+.vs {
+  height: 3.4vw;
+  width: auto;
+  border-radius: 50%;
+}
+
+.unity {
+  height: 3.4vw;
+  width: auto;
+  padding-right: 1vw;
+  padding-left: 1.7vw;
+}
+
+.stackMid {
+  padding-top: 2vw;
+  padding-bottom: 2vw;
+}
+
+.stackLow {
+  padding-bottom: 2vw;
 }
