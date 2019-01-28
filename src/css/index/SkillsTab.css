@@ -53,3 +53,23 @@
 .skills .bm-overlay {
   background: rgba(0, 0, 0, 0);
 }
+
+.skills h1 {
+  color: white;
+  padding: .5vw;
+  font-style: Garamond, sans-serif, bold;
+  outline-width: thick;
+  outline-color: black;
+  outline: black;
+  text-shadow: 5px 5px 15px Black;
+}
+
+.skills p {
+  color: white;
+  padding: .5vw;
+  font-style: Garamond, sans-serif, bold;
+  outline-width: thick;
+  outline-color: black;
+  outline: black;
+  text-shadow: 5px 5px 15px Black;
+}

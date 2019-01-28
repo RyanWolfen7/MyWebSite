@@ -200,3 +200,13 @@
 .stackLow {
   padding-bottom: 2vw;
 }
+
+.tech h1 {
+  color: white;
+  padding: .5vw;
+  font-style: Garamond, sans-serif, bold;
+  outline-width: thick;
+  outline-color: black;
+  outline: black;
+  text-shadow: 5px 5px 15px Black;
+}

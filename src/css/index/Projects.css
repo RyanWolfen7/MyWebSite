@@ -55,3 +55,43 @@
 .projects .bm-overlay {
   background: rgba(0, 0, 0, 0);
 }
+
+.projects a {
+  color: white;
+  padding: 1vw;
+  font-style: Garamond, sans-serif;
+  outline-width: thick;
+  outline-color: black;
+  outline: black;
+  text-shadow: 3px 3px 10px Black;
+}
+
+.projects p {
+  color: white;
+  padding: 3vw;
+  font-style: Garamond, sans-serif;
+  outline-width: thick;
+  outline-color: black;
+  outline: black;
+  text-shadow: 3px 3px 10px Black;
+}
+
+.projects h1 {
+  color: white;
+  padding: .5vw;
+  font-style: Garamond, sans-serif, bold;
+  outline-width: thick;
+  outline-color: black;
+  outline: black;
+  text-shadow: 5px 5px 15px Black;
+}
+
+.projects h3 {
+  color: white;
+  padding: .5vw;
+  font-style: Garamond, sans-serif;
+  outline-width: thick;
+  outline-color: black;
+  outline: black;
+  text-shadow: 3px 3px 10px Black;
+}
