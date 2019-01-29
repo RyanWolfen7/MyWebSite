@@ -16,7 +16,7 @@ class IndexTopPanel extends Component {
               A full stack developer, world traveler, and Veteran of the US Army.
               Ryan has a serious passion for tech, programming, and growing as a developer.
               With a plethora of skills and experience, he brings an unique approach to
-              solving complex problems and is more then happy to help, teach, or learn any
+              solving complex problems and is more than happy to help, teach, or learn any
               way he can.
             </p>
           </div>
